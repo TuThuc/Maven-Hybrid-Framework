@@ -1,0 +1,14 @@
+1662709057027	geckodriver	INFO	Listening on 127.0.0.1:40690
+1662709058032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\TUTHUC~1\\AppData\\Local\\Temp\\rust_mozprofilecwJ2IV"
+1662709063748	Marionette	INFO	Marionette enabled
+1662709063790	Marionette	INFO	Listening on port 60898
+Read port: 60898
+Read port: 60898
+Read port: 60898
+1662709069283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TUTHUC~1\\AppData\\Local\\Temp\\rust_mozprofilecwJ2IV\\search.json.mozlz4", (void 0)))
+JavaScript error: http://192.168.11.247:8092/main-es2015.553aaa86932927aecbb6.js, line 1: FirebaseError: Messaging: This browser doesn't support the API's required to use the firebase SDK. (messaging/unsupported-browser).
+JavaScript error: http://192.168.11.247:8092/main-es2015.553aaa86932927aecbb6.js, line 1: FirebaseError: Messaging: This browser doesn't support the API's required to use the firebase SDK. (messaging/unsupported-browser).
+1662709115709	Marionette	INFO	Stopped listening on port 60898
